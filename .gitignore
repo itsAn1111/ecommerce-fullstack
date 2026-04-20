@@ -1,3 +1,8 @@
+#Compiling folder
+bin/
+
+#IDE folder
+.idea/
 # Compiled class file
 *.class
 
